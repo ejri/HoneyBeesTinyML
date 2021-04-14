@@ -1,0 +1,2 @@
+# HoneyBeesTinyML
+We're looking into using TensorFlow Lite Micro (TinyML) on an embedded device for monitoring honey bees' conditions and health. We're hoping that we can somehow tie in different regions. At UBC, as a part of the UBC-Rogers smart campus project, we'll look into connecting the system over 5G, but the overall idea is to make the project accessible to the beekeeper communities all across. 
